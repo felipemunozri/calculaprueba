@@ -5,4 +5,3 @@ public class CalculadoraPorcentaje {
         return (double) (a * b) / 100;
     }
 }
-   
